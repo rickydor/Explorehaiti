@@ -21,19 +21,7 @@
    </style>
  </head>
 
-
 <body>
-  <!-- Page Content -->
-{{--  <div class="container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/WtDvaBfxlJA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/NCXq4JQPAoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/wjqXfQwGfMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-4oIbSlLew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/biWycOOwzMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/GsRwUhgcAGw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- </div>
---}}
-
 <h2>Recent Posts</h2>
 <br>
 <!-- Page Content -->
@@ -41,10 +29,10 @@
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item  dotted dashed solid double;"  >
         <div class="card h-100">
-          <a href="https://www.youtube.com/watch?v=gM8_tsXFCUQ" target="_blank"><img class="card-img-top" src="https://i.ytimg.com/vi/gM8_tsXFCUQ/maxresdefault.jpg" width="300" height="200" class="rounded-circle"></a>
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/KMF_iV2cVTA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="https://www.youtube.com/watch?v=gM8_tsXFCUQ" target="_blank">T Vice Kanaval 2012</a>
+              <a href="#" target="_blank">Baky-Koupab</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
           </div>
@@ -52,10 +40,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/300x200" alt=""></a>
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/Obkp6SZ4G3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="https://youtu.be/WXmWJmOH3fM" target="_blank">Project Two</a>
+              <a href="#" target="_blank">Baky-Sikatris</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
           </div>
@@ -63,10 +51,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/300x200" alt=""></a>
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/o0SyHqho8pw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Three</a>
+              <a href="#" target="_blank">Nu Look-Until When</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
           </div>
@@ -74,10 +62,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/300x200" alt=""></a>
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/biWycOOwzMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Four</a>
+              <a href="#">Trouble Boy-Kokota Manman Yo</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
           </div>
@@ -85,10 +73,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/300x200" alt=""></a>
-          <div class="card-body">
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/WtDvaBfxlJA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Five</a>
+              <a href="#">Wendyy-Livrezon</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
           </div>
@@ -96,10 +84,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/300x200" alt=""></a>
+          <a> <iframe width="350" height="250" src="https://www.youtube.com/embed/NCXq4JQPAoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Six</a>
+              <a href="#">Wendyy-Nou Fe Yo Wont</a>
             </h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
           </div>
